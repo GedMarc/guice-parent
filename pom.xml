@@ -30,7 +30,7 @@
 
     <profiles>
         <profile>
-            <id>guice-enabled</id>
+            <id>enable-guice</id>
             <modules>
                 <module>guice</module>
             </modules>
