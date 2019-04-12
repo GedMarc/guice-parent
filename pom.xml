@@ -24,7 +24,6 @@
         <version>0.0.0_0-SNAPSHOT</version>
     </parent>
     <artifactId>guice-parent</artifactId>
-
     <groupId>com.jwebmp.jpms.guice</groupId>
     <name>Guice Parent Holder</name>
     <packaging>pom</packaging>
