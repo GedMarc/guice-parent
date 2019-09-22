@@ -6,7 +6,7 @@
         <version>0.0.0_0-SNAPSHOT</version>
     </parent>
     <artifactId>guice-parent</artifactId>
-    <groupId>com.jwebmp.jpms.guice</groupId>
+    <groupId>com.jwebmp.jpms.thirdparty</groupId>
     <name>Guice Parent Holder</name>
     <packaging>pom</packaging>
 
