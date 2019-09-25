@@ -5,9 +5,12 @@
         <artifactId>jpms-pending-modules</artifactId>
         <version>0.0.0_0-SNAPSHOT</version>
     </parent>
-    <artifactId>guice-parent</artifactId>
+
     <groupId>com.jwebmp.jpms.thirdparty</groupId>
-    <name>Guice Parent Holder</name>
+    <artifactId>guice-parent-holder</artifactId>
+
+
+    <name>google.guice.parent.holder</name>
     <packaging>pom</packaging>
 
     <profiles>
